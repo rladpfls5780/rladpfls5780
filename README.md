@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![TokenPhage usage card for rladpfls5780](https://rladpfls5780.github.io/tokenphage-badge-proxy/badges/rladpfls5780.svg)
+![Annual token activity for rladpfls5780](https://rladpfls5780.github.io/tokenphage-badge-proxy/badges/rladpfls5780-grass-claude.svg)
+
 <!--
 **rladpfls5780/rladpfls5780** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
